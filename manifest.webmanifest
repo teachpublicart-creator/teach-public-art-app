@@ -1,0 +1,24 @@
+{
+  "name": "Teach Public Art",
+  "short_name": "Teach Public Art",
+  "description": "Explore public art lessons by location.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FFF9F3",
+  "theme_color": "#C95200",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
